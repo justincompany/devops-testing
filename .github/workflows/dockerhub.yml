@@ -3,7 +3,7 @@ name: publish-docker-image
 on:
   push:
     branches:
-      - main
+      - Kan-10-Pipeline
 
 jobs:
   publish-docker-image:
