@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>Jira Project Application</h1>
+      <h2>Hello KAN-10-Pipeline</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
